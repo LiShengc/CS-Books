@@ -9,7 +9,7 @@
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
 
-
+**所有压缩文件的解压密码：** `a123654`
 **0**、🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
 
 下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
