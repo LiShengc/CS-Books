@@ -9,7 +9,7 @@
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
 
-<h2>**所有压缩文件的解压密码：** `a123654`</h2>
+<h2>所有压缩文件的解压密码：a123654</h2>
 
 **0**、🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
 
